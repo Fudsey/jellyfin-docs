@@ -316,8 +316,9 @@ Windows installers and builds in ZIP archive format are available [here](https:/
 **Update**
 
 1. Download the latest version.
-2. Run the installer.
-3. If everything was completed successfully, the Jellyfin service is now running as the new version.
+2. Stop any running Jellyfin processes.
+3. Run the installer.
+4. If everything was completed successfully, the Jellyfin service is now running as the new version.
 
 **Uninstall**
 
